@@ -6,7 +6,9 @@
 
 module.exports = {
   /* Your site config here */
-  plugins:[
-    'gatsby-plugin-sass'
-  ]
+  siteMetadata: {
+    title: "mythLabs!",
+    author: "Amit b",
+  },
+  plugins: ["gatsby-plugin-sass"] 
 }
