@@ -2,4 +2,4 @@
 
 
 ## To run in dev mode locally
-   ~npm start
+   npm start
